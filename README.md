@@ -10,7 +10,7 @@ Reverse engineered independently from the Windows vendor software
 [`docs/reverse-engineering.md`](docs/reverse-engineering.md) (Indonesian).
 
 [![Release](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgitea.oxpoe.qzz.io%2Fapi%2Fv1%2Frepos%2Foxpoe%2FGamemax-linux-apps%2Freleases%2Flatest&query=%24.tag_name&label=release&color=def750&logo=gitea)](https://gitea.oxpoe.qzz.io/oxpoe/Gamemax-linux-apps/releases)
-[![Release build](https://gitea.oxpoe.qzz.io/oxpoe/Gamemax-linux-apps/actions/workflows/release.yml/badge.svg)](https://gitea.oxpoe.qzz.io/oxpoe/Gamemax-linux-apps/actions/workflows/release.yml)
+[![Release build](https://gitea.oxpoe.qzz.io/oxpoe/Gamemax-linux-apps/actions/workflows/release.yml/badge.svg)](https://gitea.oxpoe.xyz/oxpoe/Gamemax-linux-apps/actions/workflows/release.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-def750)](LICENSE)
 [![Platform: Linux](https://img.shields.io/badge/platform-Linux-def750)](#compatibility)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-def750)](src/gamemax_report.py)
